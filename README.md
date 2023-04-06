@@ -26,7 +26,7 @@ The following Power BI features were incorporated;
 ## Data Quality Assesment
 The image below is the data quality assessment report that was made before proceeding with analysis.
 
-![](dataquality.jpg)
+![](dataquality.JPG)
 
 ## Modelling
 Only one dataset was provided; Customer Churn Dataset. Unnecessary data was removed and analysis began. There was no need for data modeling since we had just one dataset and had all data needed in that dataset. Below is a shot of the data model used in this project.
