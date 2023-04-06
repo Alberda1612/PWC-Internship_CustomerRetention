@@ -54,7 +54,7 @@ Click on the link :point_right: [here](https://app.powerbi.com/groups/me/reports
 ## Conclusion
 Below is the content of the email that was sent to the Retention Manager at PhoneNow concerning the report generated from the given dataset.
 
-![](email.jpg)
+![](email.JPG)
 
 ## Thank You For Reading To The End :smile:
 
