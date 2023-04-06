@@ -24,9 +24,9 @@ The following Power BI features were incorporated;
 - Conditional columns
 
 ## Data Quality Assesment
-The snippet below is a part of the data quality assessment report that was made foor the client. Click :point_right: to view the full report. 
+The image below is the data quality assessment report that was made before proceeding with analysis.
 
-![](dataquality)
+![](dataquality.jpg)
 
 ## Modelling
 Only one dataset was provided; Customer Churn Dataset. Unnecessary data was removed and analysis began. There was no need for data modeling since we had just one dataset and had all data needed in that dataset. Below is a shot of the data model used in this project.
@@ -49,8 +49,12 @@ From the report above, we can see that PhoneNow about 50.5% of its customers bei
 
 ![](services.JPG)
 
-Click on the link :point_right: here(https://app.powerbi.com/groups/me/reports/5feb0f82-e592-44b3-8b5c-8bb0bc7c7050/ReportSection24a2f56d77737b3323cb) to interact with the report.
+Click on the link :point_right: [here](https://app.powerbi.com/groups/me/reports/5feb0f82-e592-44b3-8b5c-8bb0bc7c7050/ReportSection24a2f56d77737b3323cb) to interact with the report.
 
 ## Conclusion
 Below is the content of the email that was sent to the Retention Manager at PhoneNow concerning the report generated from the given dataset.
+
+![](email.jpg)
+
+## Thank You For Reading To The End :smile:
 
